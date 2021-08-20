@@ -1,0 +1,17 @@
+*{/*SELETOR GLOBAL / TOTAL*/
+    margin:0;
+}
+
+h1,h2{
+    font-size: 60px;
+    color: blue;
+    background-color: grey;
+}
+
+#container{
+    width: 200px;
+}
+
+.m-40{
+    margin:40px;
+}

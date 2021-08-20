@@ -1,0 +1,4 @@
+p{
+    padding-left: 15px /*correto*/
+    padding - left: 15px /*errado*/ 
+}

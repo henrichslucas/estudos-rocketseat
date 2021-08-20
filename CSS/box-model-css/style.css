@@ -1,0 +1,12 @@
+
+/*IMPORT:PUXA AS FONTES DO GOOGLE FONTS, USA ISSO NO DESAFIOOO*/
+
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@200&display=swap');
+
+h1{
+    border: 1px solid red;
+    margin: 200px;
+    padding: 60px;
+    font-family: 'Mulish', sans-serif;
+
+}

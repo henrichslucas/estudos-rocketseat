@@ -1,0 +1,14 @@
+@import url(""); /*inclui um CSS externo*/
+
+@media (min-width:500px){ /*regras condicionais para dispositivos*/
+
+}
+
+@font-face{ /*fontes externas */
+
+}
+
+@keyframes nomeAnimacao{ /*animation */
+
+}
+

@@ -1,0 +1,42 @@
+h1{
+    color:red;
+}
+h1{
+    font-size: 12px;
+}
+/*funciona de cima para baixo*/
+h1{
+    color: blue;
+}
+/*prevalesce os mais abaixo, logo, vale a pena fazer tudo possivel num bloco só*/
+
+/* inline > tag style > tag link */
+h1{
+    color:red;
+}
+
+*{
+    color: green;
+}
+/*o titulo continua vermelho pois a especificidade diz que h1 > "*" */
+
+
+/* "*" == 0 */
+/* h1 == 1 */
+
+.titulo{
+    color: pink;
+}
+/* .titulo == 10 */
+
+#title{
+    color: brown;
+}
+/*#title == 100*/
+
+/*inline == 1000*/
+
+
+/* RESUMIDAO */
+
+/* inline > id > class > h1 > * */
